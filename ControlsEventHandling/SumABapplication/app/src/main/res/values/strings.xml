@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Huỳnh Thanh Tuấn - 20110120</string>
+    <string name="inputA">Nhập A</string>
+    <string name="inputB">Nhập B</string>
+    <string name="tinhtoan">Tính kết quả</string>
+    <string name="KetQua">Kết quả</string>
+</resources>
