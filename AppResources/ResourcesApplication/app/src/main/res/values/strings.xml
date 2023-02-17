@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Huynh Thanh Tuan - 20110120</string>
+    <string name="name">App Login</string>
+    <string name="tk">Username</string>
+    <string name="mk">Password</string>
+    <string name="huy">Cancel</string>
+    <string name="chapnhan">Login</string>
+    <string name="ktan">Enter username</string>
+    <string name="mkan">Enter password</string>
+</resources>

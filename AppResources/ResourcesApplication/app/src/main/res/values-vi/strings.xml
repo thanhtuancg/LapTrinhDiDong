@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Huỳnh Thanh Tuấn - 20110120</string>
+    <string name="name">Đăng nhập ứng dụng</string>
+    <string name="tk">Tài khoản</string>
+    <string name="mk">Mật khẩu</string>
+    <string name="huy">Huỷ</string>
+    <string name="chapnhan">Đăng nhập</string>
+    <string name="ktan">Nhập tài khoản</string>
+    <string name="mkan">Nhập mật khẩu</string>
+</resources>
